@@ -1,4 +1,10 @@
 body {
     background : url("background.jpg");
     background-size: cover;
+    font-family: 'Rajdhani', sans-serif;
+    color: gold;
+}
+
+#titre {
+    background-color: gold;
 }
