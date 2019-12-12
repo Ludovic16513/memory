@@ -35,7 +35,7 @@ function comparaison(i) {
     }
 
 
-    for (let i = 0; i < found.length; i++)
+    for (let i = 0; i < trouve.length; i++)
     {
         if (carteImg != found)
         {
