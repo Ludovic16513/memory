@@ -1,6 +1,11 @@
 body {
     background : url("background.jpg");
     background-size: cover;
+    font-weight: bold;
+    color: yellow;
+    font-size: 30px;
+    font-family: 'Tangerine', cursive;
+    text-align: center;
 }
 
 #titre {
