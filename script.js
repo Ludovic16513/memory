@@ -16,7 +16,7 @@ const shuffleArray = array => {
   }
 
   return result;
-}
+};
 
 /**
  * Memory Game Class
@@ -159,6 +159,7 @@ class MemoryGame {
         }, 1000)
       } else {
         alert('Bien joué !');
+        this.scoreDivElement.innerHTML = 'Paire trouvé ' + numberOfCardFinded;
         this.firstFlippedCardIndex = null;
         this.disableClickOnCard = false;	// Allow player to click on card
       }

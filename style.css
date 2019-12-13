@@ -1,19 +1,91 @@
 body {
     background : url("background.jpg");
     background-size: cover;
-    font-family: 'Rajdhani', sans-serif;
-    color: gold;
 }
 
 #titre {
-    background-color: gold;
+    font-weight: bold;
+    color: yellow;
+    font-size: 30px;
+    font-family: 'Tangerine', cursive;
+text-align: center;
 }
 
-.carte{
-    width: 100%;
+
+
+
+@media(max-width:1680px){
+
+    .row {
+        display: flex;
+        justify-content: center;
+    }
+
+    .carte {
+        width: 40%;
+    }
+
+    .col-sm-3 {
+        margin-right: -200PX;
+    }
+
+
 }
 
-.game{
-	max-width: 550px;
-	margin: auto;
+@media(max-width:860px){
+
+    .row {
+        display: flex;
+        justify-content: center;
+    }
+
+    .carte {
+        width: 40%;
+    }
+
+    .col-sm-3 {
+        margin-right: -100PX;
+    }
+
+
 }
+
+
+
+
+
+
+
+@media(max-width:480px) {
+
+    .game {
+        width: 100%;
+        margin: auto;
+    }
+
+
+    .carte {
+        width: 50px
+    }
+
+
+    .row div {
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+    }
+
+
+    p {
+        margin-left: -50px;
+
+    }
+}
+
+
+
+}
+
+
+
+

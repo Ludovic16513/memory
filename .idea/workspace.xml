@@ -35,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/Eval-master" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
@@ -68,6 +68,7 @@
       <workItem from="1576138481779" duration="21266000" />
       <workItem from="1576168881103" duration="3364000" />
       <workItem from="1576196679619" duration="36000" />
+      <workItem from="1576238733128" duration="9106000" />
     </task>
     <task id="LOCAL-00001" summary="1.1">
       <created>1576169054726</created>
