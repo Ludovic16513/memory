@@ -9,3 +9,11 @@ body {
     background-color: gold;
 }
 
+.carte{
+    width: 100%;
+}
+
+.game{
+	max-width: 550px;
+	margin: auto;
+}
